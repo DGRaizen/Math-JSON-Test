@@ -1,8 +1,8 @@
 [
     {
         "question": "What is the result of 7 + 3 * (10 / 5)?",
-        "options": ["9", "11", "21", "14"],
-        "answer": 3
+        "options": ["9", "13", "21", "14"],
+        "answer": 2
     },
     {
         "question": "What angle are all angles of an equilateral triangle set to?",
