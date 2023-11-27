@@ -1,7 +1,7 @@
 [
     {
         "question": "What is the result of 7 + 2 * (10 / 5)?",
-        "options": ["9", "11", "21", "14"],
+        "options": ["9", "13", "21", "14"],
         "answer": 2
     },
     {
