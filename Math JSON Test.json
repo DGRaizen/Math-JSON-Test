@@ -1,7 +1,7 @@
 [
     {
-        "question": "What is the result of 7 + 3 * (10 / 5)?",
-        "options": ["9", "13", "21", "14"],
+        "question": "What is the result of 7 + 2 * (10 / 5)?",
+        "options": ["9", "11", "21", "14"],
         "answer": 2
     },
     {
@@ -33,5 +33,70 @@
         "question": "A linear function passes through the points (1, 2) and (3, 6). What is the slope?",
         "options": ["2", "1", "1.5", "3"],
         "answer": 1
+    },
+    {
+        "question": "What is the value of x in the equation 2x + 3 = 11?",
+        "options": ["4", "5", "3", "6"],
+        "answer": 1
+    },
+    {
+        "question": "What is the volume of a cube with side length 5 cm?",
+        "options": ["75 cm³", "125 cm³", "150 cm³", "25 cm³"],
+        "answer": 2
+    },
+    {
+        "question": "If a train travels 400 miles in 5 hours, what is its average speed?",
+        "options": ["80 mph", "75 mph", "85 mph", "90 mph"],
+        "answer": 1
+    },
+    {
+        "question": "Convert 200 degrees Fahrenheit to Celsius. (C = (F - 32) * 5/9)",
+        "options": ["93.3°C", "94.4°C", "95.5°C", "92.2°C"],
+        "answer": 1
+    },
+    {
+        "question": "What is the least common multiple (LCM) of 6 and 8?",
+        "options": ["24", "48", "12", "36"],
+        "answer": 1
+    },
+    {
+        "question": "What is the sum of the interior angles of a pentagon?",
+        "options": ["540 degrees", "360 degrees", "720 degrees", "180 degrees"],
+        "answer": 1
+    },
+    {
+        "question": "In a right triangle, if one angle is 30 degrees, what is the measure of the other non-right angle?",
+        "options": ["60 degrees", "90 degrees", "45 degrees", "75 degrees"],
+        "answer": 1
+    },
+    {
+        "question": "If 5x - 2 = 3x + 6, what is the value of x?",
+        "options": ["4", "8", "6", "2"],
+        "answer": 1
+    },
+    {
+        "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+        "options": ["18", "20", "32", "28"],
+        "answer": 3
+    },
+    {
+        "question": "What is the median of the following set of numbers: 3, 7, 9, 5, 11?",
+        "options": ["7", "9", "5", "6"],
+        "answer": 1
+    },
+    {
+        "question": "What is the prime factorization of 60?",
+        "options": ["2 × 2 × 3 × 5", "2 × 3 × 10", "4 × 15", "5 × 12"],
+        "answer": 1
+    },
+    {
+        "question": "In a class of 25 students, 15 are wearing glasses. What percentage of the class is wearing glasses?",
+        "options": ["60%", "50%", "40%", "70%"],
+        "answer": 1
+    },
+    {
+        "question": "What is the area of a triangle with a base of 10 cm and a height of 5 cm?",
+        "options": ["50 cm²", "25 cm²", "15 cm²", "20 cm²"],
+        "answer": 2
     }
 ]
